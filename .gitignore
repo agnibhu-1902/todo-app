@@ -1,0 +1,45 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Log Files
+*.log
+
+# Build artifacts
+target/
+build/
+bin/
+out/
+
+# IDE specific files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+pom.xml.tag
+pom.xml.bak
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+
+# Gradle
+.gradle/
+*.gradle.kts
+!gradle-wrapper.jar # Keep the Gradle wrapper executable
+
+# Sensitive information (example - adjust as needed)
+# secrets.properties
+# application-dev.properties
+
+# OS specific files
+.DS_Store
+Thumbs.db
